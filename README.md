@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichalMr-o
-- 👀 I’m interested in many things, IT and ergonomy too.
-- 🌱 I’m currently learning Python, Anaconda, Flask, Django.
+- 👀 I'm intetrested in development and data analysis.
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on Junior Python Developer or Data Scientist.
 - 📫 How to reach me m.mryczko@gmail.com
 
